@@ -4,6 +4,8 @@ Welcome to the SQL Database Creation and Analysis Project! In this repository, y
 ## Project Overview
 The primary objective of this project was to create a well-structured relational database to manage music data effectively. The database includes tables for artists, record labels, and songs, each linked through primary keys and foreign keys to ensure data integrity and efficient querying.
 
+![sql3](https://github.com/pratham-sachdeva/SQL-Music-Data-Analysis/assets/47927147/26210a90-87fd-420e-937f-e3e739dae46c)
+
 ## Features and Functionality
 1. Database Schema: Designed a robust database schema that reflects the relationships between artists, record labels, and songs. The schema ensures that data is organized logically, making it easy to retrieve relevant information.
 2. SQL Queries: The project demonstrates the application of SQL queries to derive valuable insights from the music database. Key SQL queries used include:
